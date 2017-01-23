@@ -1,0 +1,14 @@
+{
+  "name": "react-flexible",
+  "version": "1.0.4",
+  "description": "react-flexible",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "react-flexible"
+  ],
+  "author": "d9",
+  "license": "MIT"
+}
