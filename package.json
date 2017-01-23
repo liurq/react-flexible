@@ -6,6 +6,10 @@
   "scripts": {
     "test": ""
   },
+  "bugs": {
+    "url": "https://github.com/liurq/react-flexible/issues"
+  },
+  "repository": "liurq/react-flexible",
   "keywords": [
     "react-flexible"
   ],
