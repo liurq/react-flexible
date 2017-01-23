@@ -8,9 +8,9 @@
 npm install react-flexible --save
 ```
 
-## 普通调用
+## 调用
 ```javascript
-const flexible = require('react-flexible');
+var flexible = require('react-flexible');
 ```
 
 ## ES6调用
